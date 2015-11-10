@@ -1,0 +1,23 @@
+{
+  "name": "typeSth",
+  "homepage": "https://github.com/sth-group/typeSth",
+  "authors": [
+    "kWeglinski <krzysiek@csth.pl>"
+  ],
+  "description": "small js library to remove orphants from the end of line.",
+  "main": "typesth.min.js",
+  "moduleType": [],
+  "keywords": [
+    "javascript",
+    "orphants",
+    "remove"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
